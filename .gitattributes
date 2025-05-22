@@ -1,2 +1,40 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="positions.css" />
+    <title>Positions</title>
+  </head>
+  <body>
+    <div class="navbar">
+      <div>Home</div>
+      <div>Contact</div>
+    </div>
+    CSS Psedu classes and Elements
+    <input type="text" name="name" id="name" />
+    <button class="btn-click">Click Me</button>
+    <a href="https://p2pclouds.net">P2PClouds</a>
+    <a href="https://nexskill.com">Nexskill</a>
+    <div class="items-container">
+      <div class="items"></div>
+      <div class="item1"></div>
+    </div>
+    <p class="description">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa nisi
+      excepturi, necessitatibus iure assumenda nulla quia ipsam, placeat
+      obcaecati corporis fugiat, accusantium minus temporibus? Laborum iusto
+      nobis voluptatibus sint quo.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est id aut
+      eligendi vitae sed vel omnis ipsa voluptates facere doloribus nesciunt,
+      esse nihil delectus ipsum, nemo ipsam atque itaque consequuntur.
+    </p>
+    <div class="container"></div>
+    <div class="progress"></div>
+    <div class="whatsapp">
+      <img src="./Whatsapp icon.png" width="50" height="50" alt="" />
+    </div>
+  </body>
+</html>
